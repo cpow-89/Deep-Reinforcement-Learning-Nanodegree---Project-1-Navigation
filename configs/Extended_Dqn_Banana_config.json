@@ -1,0 +1,36 @@
+{
+  "general" : {
+                "env_name" : "Banana_from_sensor_data",
+                "env_path" : ["Banana_Linux", "Banana.x86_64"],
+                "monitor_dir" : ["monitor"],
+                "checkpoint_dir": ["checkpoints"],
+                "seed": 0,
+                "state_size" : 37,
+                "action_size" : 4,
+                "average_score_for_solving" : 15.0
+              },
+
+  "train" : {
+              "nb_episodes": 2000,
+              "batch_size" : 256,
+              "epsilon_high": 1.0,
+              "epsilon_low": 0.01,
+              "epsilon_decay": 0.995,
+              "run_training" : true
+             },
+
+  "agent" : {
+              "learning_rate": 0.001,
+              "gamma" : 0.99,
+              "tau" : 0.001,
+              "update_rate" : 4
+            },
+  "buffer" : {
+               "size" : 100000
+             },
+  "model" : {
+               "fc1_nodes" : 256,
+	       "fc2_adv" : 256,
+	       "fc2_val" : 256
+            }
+}
