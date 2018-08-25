@@ -20,9 +20,9 @@ The goal of this project was to train an agent to navigate in a large 3D square 
 
 [//]: # (Image References)
 
-[image1]: https://raw.githubusercontent.com/cpow-89/Extended-Deep-Q-Learning-For-Open-AI-Gym-Environments/master/images/Lunar_Lander_v2.gif "Trained Agents1"
+[image1]: https://raw.githubusercontent.com/cpow-89/Deep-Reinforcement-Learning-Nanodegree---Project-1-Navigation/master/images/Extended_Dqn_Banana_config.gif "Trained Agents1"
 
-#### Project 1: Navigation - Trained Agent
+#### Trained Agent
 
 ![Trained Agents1][image1]
 
