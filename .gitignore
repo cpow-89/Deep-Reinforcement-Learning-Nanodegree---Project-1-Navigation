@@ -4,3 +4,15 @@ __pycache__/
 unity-environment\.log
 
 \.ipynb_checkpoints/
+
+Banana_Linux/Banana_Data/
+
+Banana_Linux/Banana\.x86
+
+Banana_Linux/Banana\.x86_64
+
+Banana_Environment/Banana_Data/
+
+Banana_Environment/Banana\.x86
+
+Banana_Environment/Banana\.x86_64

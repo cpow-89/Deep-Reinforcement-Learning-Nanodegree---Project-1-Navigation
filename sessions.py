@@ -44,11 +44,11 @@ def train(agent, env, config):
             break
     return scores
 
-import time
+
 def test(agent, env, num_test_runs=3):
     brain_name = env.brain_names[0]
     env_info = env.reset(train_mode=False)[brain_name]
-    time.sleep(5)
+
     for episode in range(num_test_runs):
         env_info = env.reset(train_mode=False)[brain_name]
         state = env_info.vector_observations[0]

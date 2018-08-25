@@ -50,7 +50,7 @@ The goal of this project was to train an agent to navigate in a large 3D square 
 > conda create --name env_name python=3.6<br>
 > source activate env_name
 
-2. Download the environment from one of the links below and place it into \Banana_Linux
+2. Download the environment from one of the links below and place it into \Banana_Environment
 
 
 - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
@@ -61,7 +61,7 @@ The goal of this project was to train an agent to navigate in a large 3D square 
     
 - your folder should now look something like this:
 
-\Banana_Linux<br>
+\Banana_Environment<br>
 &nbsp;&nbsp;&nbsp;&nbsp; \Banana_Data  <br>
 &nbsp;&nbsp;&nbsp;&nbsp; \Banana.x86<br>
 &nbsp;&nbsp;&nbsp;&nbsp; \Banana.x86_64<br>

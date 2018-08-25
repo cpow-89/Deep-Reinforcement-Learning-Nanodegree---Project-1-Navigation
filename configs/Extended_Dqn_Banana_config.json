@@ -1,7 +1,7 @@
 {
   "general" : {
                 "env_name" : "Banana_from_sensor_data",
-                "env_path" : ["Banana_Linux", "Banana.x86_64"],
+                "env_path" : ["Banana_Environment", "Banana.x86_64"],
                 "monitor_dir" : ["monitor"],
                 "checkpoint_dir": ["checkpoints"],
                 "seed": 0,
