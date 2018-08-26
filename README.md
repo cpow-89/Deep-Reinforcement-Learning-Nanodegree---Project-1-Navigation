@@ -81,7 +81,7 @@ The goal of this project was to train an agent to navigate in a large 3D square 
 
 ### Instructions
 
-You can run the project via Project_Navigation_DRLND.ipynb or by running the main.py file through the console.
+You can run the project via Report.ipynb or by running the main.py file through the console.
 
 
 

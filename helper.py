@@ -20,5 +20,5 @@ def plot_scores(scores):
     _ = fig.add_subplot(111)
     plt.plot(np.arange(len(scores)), scores)
     plt.ylabel('Score')
-    plt.xlabel('Episode #')
+    plt.xlabel('Episode')
     plt.show()
